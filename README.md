@@ -1,7 +1,7 @@
 # 👋 Hi, I'm João Rafael Fenix
 
 🎓 Student at **Colégio Politécnico Bento Quirino**  
-💻 Currently working with **Java** as a software engineer developing with Spring  
+💻 Currently studying **Java** as a software engineer developing with Spring  
 ⚛️ Knowledge in **React** and modern web technologies  
 
 ---
