@@ -36,24 +36,20 @@
 ---
 
 ## 🌐 Connect with me
-<div align="center" style="background:#1a1b27; padding:15px; border-radius:12px; display:flex; justify-content:center; gap:25px;">
 
-  <a href="https://github.com/joaorafaelpm" target="_blank" style="text-decoration:none; color:white;">
-    <div style="display:flex; align-items:center; gap:8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" height="35" alt="GitHub"/>
-      <span>GitHub</span>
-    </div>
+<p align="center">
+  <a href="https://github.com/joaorafaelpm" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
-  <a href="https://linkedin.com/in/joão-rafael-pendezza-medeiros-10a9ba2b4" target="_blank" style="text-decoration:none; color:white;">
-    <div style="display:flex; align-items:center; gap:8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35" alt="LinkedIn"/>
-      <span>LinkedIn</span>
-    </div>
+  <a href="https://linkedin.com/in/joão-rafael-pendezza-medeiros-10a9ba2b4" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
-</div>
+  <a href="mailto:your_email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ✨ Always learning and sharing knowledge!
+
