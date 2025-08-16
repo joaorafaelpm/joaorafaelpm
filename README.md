@@ -43,9 +43,6 @@
   <a href="https://linkedin.com/in/joão-rafael-pendezza-medeiros-10a9ba2b4" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
-  <a href="mailto:joaorafaelpmed@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" height="40" alt="Email"/>
-  </a>
 </div>
 
 ---
