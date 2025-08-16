@@ -9,9 +9,9 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoRafaelFenix&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoRafaelFenix&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoRafaelFenix&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaorafaelpm&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=joaorafaelpm&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorafaelpm&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
