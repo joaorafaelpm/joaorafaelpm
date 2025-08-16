@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://github.com/joaorafaelpm" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/joão-rafael-pendezza-medeiros-10a9ba2b4" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -52,4 +52,3 @@
 ---
 
 ✨ Always learning and sharing knowledge!
-
