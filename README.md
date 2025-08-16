@@ -1,4 +1,4 @@
-# 👋 Hi, I'm João Rafael Fenix
+# 👋 Hi, I'm João Rafael
 
 🎓 Student at **Colégio Politécnico Bento Quirino**  
 💻 Currently studying **Java** as a software engineer developing with Spring  
