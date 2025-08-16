@@ -37,9 +37,11 @@
 
 ## 🌐 Connect with me
 <div align="center" style="background:#1a1b27; padding:15px; border-radius:12px;">
-  <a href="https://github.com/joaorafaelpm" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  </a>
+  <div align="center" style="background:#ccc; padding:15px; border-radius:12px;">
+    <a href="https://github.com/joaorafaelpm" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+    </a>
+  </div>
   <a href="https://linkedin.com/in/joão-rafael-pendezza-medeiros-10a9ba2b4" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
